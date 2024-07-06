@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Revanth Mahindra 👋
 
 <!--
 **revanthmahindra/revanthmahindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me:
+**Email:** [revanthmahindra@gmail.com](mailto:revanthmahindra@gmail.com)  
+**LinkedIn:** [Revanth Mahindra Tummala](https://www.linkedin.com/in/revanthmahindra)
